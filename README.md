@@ -1,2 +1,2 @@
 # PROJECTS
-Collaboration on various Projects
+Team Collaboration on various Projects
